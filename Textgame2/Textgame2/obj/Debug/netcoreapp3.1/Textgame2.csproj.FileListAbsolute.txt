@@ -1,0 +1,13 @@
+C:\Users\Yeastov\source\repos\Textgame2\Textgame2\obj\Debug\netcoreapp3.1\Textgame2.csprojAssemblyReference.cache
+C:\Users\Yeastov\source\repos\Textgame2\Textgame2\obj\Debug\netcoreapp3.1\Textgame2.AssemblyInfoInputs.cache
+C:\Users\Yeastov\source\repos\Textgame2\Textgame2\obj\Debug\netcoreapp3.1\Textgame2.AssemblyInfo.cs
+C:\Users\Yeastov\source\repos\Textgame2\Textgame2\obj\Debug\netcoreapp3.1\Textgame2.csproj.CoreCompileInputs.cache
+C:\Users\Yeastov\source\repos\Textgame2\Textgame2\bin\Debug\netcoreapp3.1\Textgame2.exe
+C:\Users\Yeastov\source\repos\Textgame2\Textgame2\bin\Debug\netcoreapp3.1\Textgame2.deps.json
+C:\Users\Yeastov\source\repos\Textgame2\Textgame2\bin\Debug\netcoreapp3.1\Textgame2.runtimeconfig.json
+C:\Users\Yeastov\source\repos\Textgame2\Textgame2\bin\Debug\netcoreapp3.1\Textgame2.runtimeconfig.dev.json
+C:\Users\Yeastov\source\repos\Textgame2\Textgame2\bin\Debug\netcoreapp3.1\Textgame2.dll
+C:\Users\Yeastov\source\repos\Textgame2\Textgame2\bin\Debug\netcoreapp3.1\Textgame2.pdb
+C:\Users\Yeastov\source\repos\Textgame2\Textgame2\obj\Debug\netcoreapp3.1\Textgame2.dll
+C:\Users\Yeastov\source\repos\Textgame2\Textgame2\obj\Debug\netcoreapp3.1\Textgame2.pdb
+C:\Users\Yeastov\source\repos\Textgame2\Textgame2\obj\Debug\netcoreapp3.1\Textgame2.genruntimeconfig.cache
