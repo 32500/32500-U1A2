@@ -589,6 +589,7 @@ namespace Textgame2
                             Console.WriteLine("a much deserved break.");
                             Console.ReadLine();
                             health = 0;
+                            mr5 = true;
 
                         }
                         else 
@@ -771,55 +772,11 @@ namespace Textgame2
             {
                 Console.WriteLine("You are dead, the game is over.");
                 Console.WriteLine("");
-                Console.WriteLine("|===================================");
-                Console.WriteLine("| A: I want to try again!");
-                Console.WriteLine("| B: I don't want to do that again.");
-                Console.WriteLine("|===================================");
-                Console.Write("| Would you like to try again?:");
-                string input = Console.ReadLine();
-                string choice = input.ToUpper();
-
-                if (choice == "A")
-                {
-                    health = 1;
-                }
-                else if (choice == "B")
-                {
-
-                }
-                else
-                {
-                    Console.WriteLine(choice + " is not a valid option, please try again: ");
-                    input = Console.ReadLine();
-                    choice = input.ToUpper();
-                }
             }
             else
             {
                 Console.WriteLine("You Win! Good Job!");
                 Console.WriteLine("");
-                Console.WriteLine("|===================================");
-                Console.WriteLine("| A: I want to go again!");
-                Console.WriteLine("| B: I don't want to do that again.");
-                Console.WriteLine("|===================================");
-                Console.Write("| Would you like to play again?:");
-                string input = Console.ReadLine();
-                string choice = input.ToUpper();
-
-                if (choice == "A")
-                {
-                    health = 1;
-                }
-                else if (choice == "B")
-                {
-
-                }
-                else
-                {
-                    Console.WriteLine(choice + " is not a valid option, please try again: ");
-                    input = Console.ReadLine();
-                    choice = input.ToUpper();
-                }
             }
 
             Console.WriteLine("This is the end of the program.");
